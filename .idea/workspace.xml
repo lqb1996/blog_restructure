@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bb01f6f-bc87-4dc0-9f2a-83bb4d9e6ea6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/maven3/MavenRepository" />
+        <option name="mavenHome" value="/usr/local/maven3" />
+        <option name="userSettingsFile" value="/usr/local/maven3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VHKUPfVTFqUHM4iiKZcP1ekaW5" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../data_directory" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.blog_restructure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogRestructureApplication">
+    <configuration name="UserTest.getUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog_restructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blog_restructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blog_restructure" />
+      <option name="MAIN_CLASS_NAME" value="com.blog_restructure.UserTest" />
+      <option name="METHOD_NAME" value="getUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogRestructureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog_restructure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blog_restructure.BlogRestructureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BlogRestructureApplication" />
+        <item itemvalue="JUnit.UserTest.getUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb01f6f-bc87-4dc0-9f2a-83bb4d9e6ea6" name="Default Changelist" comment="" />
+      <created>1576904595563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576904595563</updated>
+      <workItem from="1576904602002" duration="14052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="183" width="848" height="684" key="#Project_Structure" timestamp="1576908827593">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="183" width="848" height="684" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1576908827593" />
+    <state x="708" y="374" width="504" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576915678001">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="708" y="374" width="504" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1053@0.27.1920.1053" timestamp="1576915678001" />
+    <state x="533" y="289" width="424" height="491" key="FileChooserDialogImpl" timestamp="1576916182221">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="533" y="289" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1576916182221" />
+    <state width="1870" height="507" key="GridCell.Tab.0.bottom" timestamp="1576920451685">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="507" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1576920451685" />
+    <state width="1870" height="507" key="GridCell.Tab.0.center" timestamp="1576920451684">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="507" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1576920451684" />
+    <state width="1870" height="507" key="GridCell.Tab.0.left" timestamp="1576920451684">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="507" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1576920451684" />
+    <state width="1870" height="507" key="GridCell.Tab.0.right" timestamp="1576920451685">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="507" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1576920451685" />
+    <state width="1870" height="507" key="GridCell.Tab.1.bottom" timestamp="1576920451685">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="507" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1576920451685" />
+    <state width="1870" height="507" key="GridCell.Tab.1.center" timestamp="1576920451685">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="507" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1576920451685" />
+    <state width="1870" height="507" key="GridCell.Tab.1.left" timestamp="1576920451685">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="507" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1576920451685" />
+    <state width="1870" height="507" key="GridCell.Tab.1.right" timestamp="1576920451685">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="507" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1576920451685" />
+    <state x="493" y="179" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1576915499413">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="493" y="179" width="924" height="691" key="Maven.ArtifactSearchDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576915499413" />
+    <state x="456" y="156" width="1007" height="737" key="SettingsEditor" timestamp="1576916187064">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="456" y="156" width="1007" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1576916187064" />
+  </component>
+</project>
