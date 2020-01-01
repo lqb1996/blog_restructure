@@ -1,0 +1,9 @@
+spring.datasource:
+  name:LeafSnap_Tencent_Mysql
+  username:root
+  password:lqb3622027610
+  url:sh-cdb-p14ptpm5.sql.tencentcdb.com:63203
+  driver-class-name:org.postgresql.Driver
+
+mybatis.config-locations:classpath:mybatis/mybatis-config.xml
+mybatis.mapper-locations:classpath:/com/blog_restructure/mapper/*.xml
